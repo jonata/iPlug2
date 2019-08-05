@@ -1,0 +1,8 @@
+<map id="APIBitmap" name="APIBitmap">
+<area shape="rect" id="node2" title="An AGG API bitmap. " alt="" coords="5,80,103,107"/>
+<area shape="rect" id="node3" title="A Cairo API bitmap. " alt="" coords="127,80,229,107"/>
+<area shape="rect" id="node4" title="An HTML5 canvas API bitmap. " alt="" coords="253,80,367,107"/>
+<area shape="rect" id="node5" title="A LICE API bitmap. " alt="" coords="392,80,487,107"/>
+<area shape="rect" id="node6" title="An NanoVG API bitmap. " alt="" coords="511,80,632,107"/>
+<area shape="rect" id="node7" href="$class_skia_bitmap.html" title="SkiaBitmap" alt="" coords="656,80,751,107"/>
+</map>
